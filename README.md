@@ -109,6 +109,7 @@ Project Report (Recommended)
 The complete project analysis with visualizations is available here:
 
 - **http://mohanchand-kommalapati.github.io/Lead-scores-analysis-logistic-regression/**
+  
 Open the link in a browser for the best viewing experience.
 Author
 
